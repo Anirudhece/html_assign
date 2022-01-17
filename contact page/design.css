@@ -1,0 +1,141 @@
+.{
+    margin-left: auto;
+    margin-right: auto;
+}
+.background{
+    background-image: url("https://uploads-ssl.webflow.com/5e58c8dd1c2c937dfad1ea50/5e7f0cb35836db509cb5d284_contact%20bg.png");
+    background-repeat: no-repeat;
+}
+.footer{
+    color: #b4b4b4; 
+    text-align: center;
+}
+.above-footer a{
+    color: #b4b4b4; 
+    font-family: Arial,sans-serif;
+    text-align: center;
+}
+.navigation{
+    position: relative;
+    left: 380px;
+}
+.navigation img{
+    height: 76px;
+    width: 76px;
+    position: relative;
+    top: 0px;
+    /* left: 360px; */
+}
+.contact-forum{
+    position: relative;
+    left: 996px;
+    background-color: #f22855;    
+    height: 250px;
+    width: 340px;
+    margin: 10px;
+    padding: 25px;
+    top: 60px;
+    margin-right: 10px;
+}
+#contact-forum-inside{
+    font-size: 14px;
+
+    color: #333;
+}
+.drop-us{
+    padding-left: 219px;
+    padding-top: 86px;
+}
+.drp{  
+    margin-bottom: 6px;
+    margin-bottom: 6px;
+    font-family: 'Miriam Libre',sans-serif;
+    color: #f22855;
+    font-size: 32px;
+    line-height: 36px
+}
+#message{
+    margin: 0px;
+    border: 0px;
+    color: #6b6b6b;
+    margin: 0px;
+    padding-left: 0;
+    font-family: 'Work Sans',sans-serif;
+    font-size: 1.2em;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: .05em;
+}
+
+/* .background{
+    background-image: url(images\background.png);
+} */
+.back-link a{
+    margin-right: 15px;
+    font-family: Arial;
+    font-size: 14px;
+    padding: 15px;
+    color: #333;
+    text-decoration: none;
+}
+.back-link{
+    display: flex;
+    margin-top: -12px;
+    margin-left: 395px;
+}
+.last-col{
+    width: 80%;
+}
+
+#nav-bar{
+    left: 1000px;
+}
+.contact-address{
+    padding-left: 217px;
+    padding-top: 25px;
+    padding-right: 343px;
+}
+#info{
+    margin-bottom: 20px;
+    font-family: 'Miriam Libre',sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+}
+.icon{
+    width: 30px;
+}
+/* .icon-text{
+
+} */
+.quotation{
+    padding-top: 40px;
+    padding-left: 0px;
+}
+#quot{
+    width: 113px;
+    height: 105px;
+    padding-left: 550px;
+}
+#before{
+    color: #f22855;
+    padding-left: 170px;
+
+}
+#after{
+    color: #f22855;
+    padding-left: 447px;
+
+}
+#upr-footer{
+    padding-left: 550px;
+}
+#lower-footer{
+    padding-left: 650px;
+}
+.footer{
+    padding-left: 215px;
+}
+#innovative-img{
+    width: 250px;
+    padding-left: 540px;
+}

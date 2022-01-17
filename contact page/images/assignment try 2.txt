@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+  <style>
+    .row {
+      display: flex;
+    }
+  </style>
+</head>
+<body>
+
+<div style="background-color: #a8d5ff">
+<div>
+  <img src="468x60_fcom_slug.gif" style="width: 1.3%; height: 1.3%; margin-left: 40px">
+  <img src="dcom-ban0048.gif" style="width: 61%; height: 61%">
+  <img src="468x60_fcom_slug.gif" style="width: 1.3%; height: 1.3%; margin-left: 150px">
+  <img src="dcom-til0025.gif" style="width: 15.5%; height: 15.5%">
+</div>
+
+<div style="display: flex">
+  <img src="familylogo_lrg342.gif" style="width: 42%; height: 42%; margin-left: 40px">
+  <div style="display: inline-block; margin-left: 350px; color: darkblue; margin-top: 70px"> <b> Search FamilyFun </b>
+    <div>
+      <div style="display: inline-block">
+        <input type="textbox">
+        <img src="find_trans_blue.gif">
+      </div>
+    </div>
+  </div>
+</div> <br>
+</div>
+<div>
+  <span>
+    <img src="crafts_off.gif" style="width: 19.5%; height: 19.5%">
+    <img src="home_garden_off.gif" style="width: 15.5%; height: 15.5%">
+    <img src="pets_off.gif" style="width: 7.5%; height: 7.5%">
+    <img src="parties_off.gif" style="width: 9.5%; height: 9.5%">
+    <img src="raising_off.gif" style="width: 13.5%; height: 13.5%">
+    <img src="time_off.gif" style="width: 13.3%; height: 13.3%">
+    <img src="recipes_off.gif" style="width: 9.5%; height: 9.5%">
+    <img src="travel_on.gif" style="width: 9.5%; height: 9.5%">
+  </span>
+</div>
+
+<div style="text-align: right">
+  <span>
+    <img src="places_off.gif" style="width: 12.3%; height: 12.3%">
+    <img src="things_off.gif" style="width: 13%; height: 13%">
+    <img src="distravel_off.gif" style="width: 16%; height: 16%">
+  </span>
+</div>
+
+<div class="row">
+<!-- division 1 -->
+<div style="display: inline-block; text-align: center; margin: 5px; background-color: dodgerblue; color: white">
+<br>
+<div> <img src="famcomhouse.gif"> </div>
+<div> <img src="icon_newsletter.gif"> </div> <br>
+<div style="color: khaki; font-size: 25px"> shortcuts </div> <hr>
+<div> Quick and easy clicks </div> <br>
+<div style="color: khaki; font-size: 25px"> Travel Tools </div>
+
+<div style="color: white">
+  <a href="#" style="color: white"> See America </a> <br>
+  <a href="#" style="color: white"> Travel Series </a>
+  <img src="new.gif"> <br>
+  <a href="#" style="color: white"> Disney Thrill Seeker </a> <br>
+  <a href="#" style="color: white"> Vacation Finder</a> <br>
+  <a href="#" style="color: white"> City Guides </a> <br>
+  <a href="#" style="color: white"> Disney Travel Corner </a> <br>
+  <a href="#" style="color: white"> Roady Tested Vacations </a> <br>
+  <a href="#" style="color: white"> Gift Finder </a> <br> <br>
+</div>
+
+<div> <a href="#" style="color: white; font-size: 25px"> All Tools </a> <br> <br> </div>
+
+<div> <a href="#" style="color: white; font-size: 25px"> Article Library </a> </div>
+
+<div> Thousands of family ideas & activities </div> <br>
+<div> * * * * </div> <br>
+<div style="color: khaki; font-size: 25px"> Travel Checklists </div>
+<div>
+  <a href="#" style="color: white"> Theme Park Needs </a> <br>
+  <a href="#" style="color: white"> Weekend Getaway Packing </a> <br>
+  <a href="#" style="color: white"> Beach Trip Packing </a> <br>
+  <a href="#" style="color: white"> Car Trip Essentials </a> <br>
+  <a href="#" style="color: white"> Plane Trip Essentials </a> <br>
+  <a href="#" style="color: white"> City Exploration Needs </a> <br>
+  <a href="#" style="color: white"> Travel First Aid Kit </a> <br> <br>
+</div>
+
+<div> <a href="#" style="color: white; font-size: 25px"> All Checklists </a> <br> <br> </div>
+
+<div style="color: khaki; font-size: 25px"> Travel Experts </div>
+<div>
+  <a href="#" style="color: white"> Kim Wright Wiley, Theme Park </a> <br>
+  <a href="#" style="color: white"> Diane Bair & Pamela Wright, Family Travel </a> <br> <br>
+</div>
+
+<div> <a href="#" style="color: white; font-size: 25px"> All Experts </a> </div> <br> <br>
+<div> * * * * </div> <br>
+<div style="color: khaki; font-size: 25px"> parent to parent </div> <hr>
+<div> Get tips,support &advice</div> <br>
+<div style="color: khaki; font-size: 25px"> Travel Boards </div>
+<div>
+  <a href="#" style="color: white">Getaways/ Walt Disney World</a> <br>
+  <a href="#" style="color: white">Other Disney Vacations</a>
+</div> <br>
+
+<div>
+  <a href="#" style="color: white; font-size: 25px">All Discussion Boards</a> <br>
+</div> <br>
+<div> * * * * </div>
+<div style="color: khaki; font-size: 25px"> E-Cards </div> <hr>
+<div> Creative,Fun,Free. catching up is easy to do.</div>
+<div> <a href="#" style="color: white; font-size: 25px";>Send an E-Card</a> </div> <br>
+<div> * * * * </div> <br>
+</div>
+
+<!-- division 2 -->
+<div style="display: inline-block; margin: 5px">
+  <div> <img src="curvetop.gif"> </div>
+  <div> <img src="curvebottom.gif"> </div> <br>
+  <div> <img src="SC_header_travel.gif"> </div>
+  <div style="color: darkblue"><b> This Week: </b></div>
+
+<ul>
+  <li> <a href="#"> Pull off the Ultimate Cross-Country Trip </a> </li>
+  <li> <a href="#"> Throw a Scavanger Hunt in the Car </a> </li>
+  <li> <a href="#"> Family Fun's Guide toski Resorts </a> </li>
+  <li> <a href="#"> Have a Family Outing at theZoo </a> </li>
+  <li> <a href="#"> Visit a Wonderland </a> </li>
+  <li> <a href="#"> Can't get away at Valentines day?Celebrate at Home </a> </li>
+</ul>
+
+<div style="border: solid">
+  <img src="hot_topics_hed.gif"> <br>
+  <a href="#"> The Best of Florida </a> <br>
+  <a href="#"> Visit a National Park </a> <br>
+  <a href="#"> What a Zoo ! A Guide to the Best in the US </a> <br>
+</div> <br>
+
+<div> <img src="travel_sol.gif"> </div>
+
+<div>
+  <span>
+    <img src="i_travel_togo.gif">
+    <a href="#">Places to go:</a> Find the ideal vacation spot
+  </span>
+</div>
+
+<div>
+  <span>
+    <img src="i_travel_todo.gif">
+    <a href="#">Things to do:</a> Zoos,museums,theme parks,more.
+  </span>
+</div>
+
+<div>
+  <span>
+    <img src="i_travel_disney.gif">
+    <a href="#">Disney Vacations:</a> Insider tips on parks,resorts and crusies
+  </span>
+</div>
+</div>
+
+<!-- division 3 -->
+<div style="display: inline-block; border:slategray solid 1px; background-color: khaki; margin: 1px; margin-bottom: auto; margin-top: 40px">
+<div> <img src="vacationfinder.gif"> </div> <br>
+
+<div> Use <a href="#">Vacation Finder</a> to find new vacation ideas,<a href="#">including exploring time and space at the Haryan Planetarium</a> </div>
+<div> <img src="line1.gif"> </div>
+<div> <img src="see_america2.gif"> </div>
+
+<div>
+  <ul>
+    <li> Planning a road trip?Our <a href="#">See America</a> tool gives you great family-friendly destinations.Plus: </li>
+    <li> <a href="#">Printable car games</a> </li>
+    <li> <a href="#">Backseat snack ideas</a> </li>
+    <li> <a href="#">Travel Checklists</a> </li>
+  </ul>
+</div>
+
+<div> <img src="line1.gif"> </div>
+<div> <img src="roadtestedvacations.gif"> </div>
+<div> <a href="#">Get the story</a> on your next vacation from families who have already been there.When you get home,<a href="#">share your trip</a> with future travellers.</div> <br>
+<div> <img src="line1.gif"> </div>
+<div> <img src="talkabout_vacation.gif"> </div>
+
+<div>
+  Find out what other parents have to say about their Disney Trips <br>
+  Check out <a href="#">the Disney Travel Boards!</a>
+</div>
+
+<div> <img src="line1.gif"> </div>
+<div> <img src="cl_travel.gif"> </div>
+
+<div>
+  <div>
+    <img src="checkmark.gif">
+    <a href="#">Ski-Trip Packing</a>
+  </div>
+  <div>
+    <img src="checkmark.gif">
+    <a href="#">Travel First-Aid</a>
+  </div>
+  <div>
+    <img src="checkmark.gif">
+    <a href="#">Weekend Getaway Packing</a>
+  </div>
+  <div>
+    <img src="checkmark.gif">
+    <a href="#">Car trip essentials</a>
+  </div>
+  <div>
+    <img src="checkmark.gif">
+    <a href="#">Theme Park needs</a>
+  </div>
+  <div>
+    <img src="checkmark.gif">
+    <a href="#">More...</a>
+  </div>
+</div> <br>
+
+<div> <img src="line1.gif"> </div>
+<div> <img src="expert_sm_bair_wright_p2.gif"> </div>
+
+<div> Featured: </div>
+<div> <a href="#">Florida's Natural Playground</a> </div> <br>
+<div> More Topics :</div>
+<ul>
+  <li> <a href="#">Boston is for Families</a> </li>
+  <li> <a href="#">Using a Babysitter when Travelling</a> </li>
+  <li> <a href="#">More..</a> </li>
+</ul> <br>
+
+<div> <img src="line1.gif"> </div>
+<div> <img src="tip_day_hed.gif"> </div>
+<div> To heat your baby's bottle in a hotel,try filling the ice bucket with hot water and place the bottle inside;they should be ready in minutes</div>
+</div>
+
+<!-- division 4 -->
+<div style="display: inline-block; margin-left: 5px; margin-top: 40px">
+  <div> <img src="v2LOGO_120x60_g_learn.gif"> </div> <br> <br>
+  <div> <img src="120x240_fcom_slug.gif"> </div>
+  <div> <img src="dcom-sky0021.gif"> </div>
+</div>
+</div>
+
+</body>
+</html>
